@@ -1,11 +1,14 @@
 body {
 	text-align: center; 
+  font-size: 100px;
+  text-align: left;
  }
 
 p.one{
 	background-color: #ff9f40;
 	padding: 40px;
   width: 75%;
+  font-size: 150px;
   margin: 20px auto 10px auto; 
 	border: 10px solid #cc6600; 
 }
