@@ -1,5 +1,37 @@
+body {
+	text-align: center; 
+ }
+
 p.one{
 	background-color: #ff9f40;
-	padding: 5px;
+	padding: 40px;
+  width: 75%;
+  margin: 20px auto 10px auto;
 	border: 10px solid #cc6600; 
+}
+
+
+p.two{
+	background-color: #c4f9f0;
+	padding: 120px;
+  width: 75%;
+  margin: 20px auto 10px auto;
+	border: 10px solid #4bb4a6; 
+}
+
+
+p.three{
+	background-color: #f1bece;
+  width: 75%;
+  margin: 20px auto 10px auto;
+	padding: 100px;
+	border: 10px solid #d22d61; 
+}
+
+p.four{
+	background-color: #cdaded;
+	padding: 60px;
+  margin: 20px auto 10px auto;
+  width: 75%;
+	border: 10px solid #802ed1; 
 }
