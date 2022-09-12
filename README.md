@@ -23,5 +23,5 @@ Use other code to piece together mechanism
 Program each step & commit as needed
 
 ## Image of Thought Process
-
+![](img_process.jpg)
 
